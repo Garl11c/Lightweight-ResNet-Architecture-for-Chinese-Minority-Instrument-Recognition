@@ -6,6 +6,7 @@ Follow these steps to install and run the project:
   cd Lightweight-ResNet-Architecture-for-Chinese-Minority-Instrument-Recognition  
   conda create -n LRAfC python=3.10  
   pip install -r requirements.txt  
+  Download `PFCIC_Dataset_Sliced`, extract it, and place it in the root directory.
   
 For Train:  
   python train.py  
