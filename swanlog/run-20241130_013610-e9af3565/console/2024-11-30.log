@@ -1,0 +1,93 @@
+swanlab: \ Creating experiment...swanlab: | Creating experiment...                                                                                                    swanlab: Tracking run with swanlab version 0.3.27
+swanlab: Run data will be saved locally in F:\AI_tools\PFCIC\swanlog\run-20241130_013610-e9af3565
+swanlab: 👋 Hi JcYu0715, welcome to swanlab!
+swanlab: Syncing run resnet18_audio to the cloud
+swanlab: 🌟 Run `swanlab watch F:\AI_tools\PFCIC\swanlog` to view SwanLab Experiment Dashboard locally
+swanlab: 🏠 View project at https://swanlab.cn/@JcYu0715/Audio_Classification_with_ResNet18
+swanlab: 🚀 View run at https://swanlab.cn/@JcYu0715/Audio_Classification_with_ResNet18/runs/qjtclvjncffmhsn6tm6qh
+Epoch 1:
+Train Loss: 1.3145 | Train Acc: 52.49%
+Val Loss: 1.1082 | Val Acc: 77.36%
+Learning Rate: 0.000100
+Epoch 2:
+Train Loss: 0.7196 | Train Acc: 79.57%
+Val Loss: 0.6857 | Val Acc: 75.47%
+Learning Rate: 0.000100
+Epoch 3:
+Train Loss: 0.3766 | Train Acc: 89.07%
+Val Loss: 0.3471 | Val Acc: 86.79%
+Learning Rate: 0.000100
+Epoch 4:
+Train Loss: 0.2443 | Train Acc: 94.06%
+Val Loss: 0.2521 | Val Acc: 93.40%
+Learning Rate: 0.000100
+Epoch 5:
+Train Loss: 0.1590 | Train Acc: 96.91%
+Val Loss: 0.1959 | Val Acc: 92.45%
+Learning Rate: 0.000100
+Epoch 6:
+Train Loss: 0.1001 | Train Acc: 98.34%
+Val Loss: 0.1835 | Val Acc: 94.34%
+Learning Rate: 0.000100
+Epoch 7:
+Train Loss: 0.0951 | Train Acc: 98.81%
+Val Loss: 0.1932 | Val Acc: 92.45%
+Learning Rate: 0.000100
+Epoch 8:
+Train Loss: 0.0998 | Train Acc: 98.34%
+Val Loss: 0.3235 | Val Acc: 89.62%
+Learning Rate: 0.000100
+Epoch 9:
+Train Loss: 0.0873 | Train Acc: 98.57%
+Val Loss: 0.1726 | Val Acc: 94.34%
+Learning Rate: 0.000100
+Epoch 10:
+Train Loss: 0.0723 | Train Acc: 98.57%
+Val Loss: 0.1791 | Val Acc: 95.28%
+Learning Rate: 0.000100
+Epoch 11:
+Train Loss: 0.0424 | Train Acc: 99.76%
+Val Loss: 0.1375 | Val Acc: 95.28%
+Learning Rate: 0.000100
+Epoch 12:
+Train Loss: 0.0349 | Train Acc: 99.05%
+Val Loss: 0.1816 | Val Acc: 95.28%
+Learning Rate: 0.000100
+Epoch 13:
+Train Loss: 0.0307 | Train Acc: 99.52%
+Val Loss: 0.1856 | Val Acc: 95.28%
+Learning Rate: 0.000100
+Epoch 14:
+Train Loss: 0.0218 | Train Acc: 99.76%
+Val Loss: 0.1419 | Val Acc: 95.28%
+Learning Rate: 0.000100
+Epoch 15:
+Train Loss: 0.0171 | Train Acc: 99.76%
+Val Loss: 0.1577 | Val Acc: 95.28%
+Learning Rate: 0.000100
+Epoch 16:
+Train Loss: 0.0170 | Train Acc: 100.00%
+Val Loss: 0.1314 | Val Acc: 96.23%
+Learning Rate: 0.000100
+Epoch 17:
+Train Loss: 0.0238 | Train Acc: 99.76%
+Val Loss: 0.1118 | Val Acc: 97.17%
+Learning Rate: 0.000100
+Epoch 18:
+Train Loss: 0.0188 | Train Acc: 100.00%
+Val Loss: 0.2438 | Val Acc: 93.40%
+Learning Rate: 0.000100
+Epoch 19:
+Train Loss: 0.0131 | Train Acc: 100.00%
+Val Loss: 0.2115 | Val Acc: 94.34%
+Learning Rate: 0.000100
+Epoch 20:
+Train Loss: 0.0136 | Train Acc: 99.76%
+Val Loss: 0.1455 | Val Acc: 94.34%
+Learning Rate: 0.000100
+Model saved to final_audio_classifier.pth
+swanlab: Experiment resnet18_audio has completed
+swanlab: 🌟 Run `swanlab watch F:\AI_tools\PFCIC\swanlog` to view SwanLab Experiment Dashboard locally
+swanlab: 🏠 View project at https://swanlab.cn/@JcYu0715/Audio_Classification_with_ResNet18
+swanlab: 🚀 View run at https://swanlab.cn/@JcYu0715/Audio_Classification_with_ResNet18/runs/qjtclvjncffmhsn6tm6qh
+swanlab: \ Waiting for uploading completeswanlab: | Waiting for uploading completeswanlab: / Waiting for uploading complete                                                                                                    swanlab: \ Updating experiment status...                                                                                                    
